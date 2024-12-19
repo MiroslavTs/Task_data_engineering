@@ -3,6 +3,8 @@ Task 2: SQL Task
 
 Objective: Evaluate the candidate's SQL skills, including query writing, data manipulation, and problem-solving.
 
+SOLUTION = https://www.db-fiddle.com/f/nirHs9uUVfLNg31tPL4fM/0
+
 Send the solution as https://www.db-fiddle.com - you can create new public fiddle and share it.
 Here is an example: https://www.db-fiddle.com/f/iE2mKFU3ht97C5aMFkLFnd/2 Please don't work in it, use the "Fork" button to create a copy.
 You can choose whatever sql flavour you like.
@@ -51,3 +53,5 @@ Write a query to return the first two orders (based on OrderDate) for each custo
 4. Customers who made no orders in the last 6 months
 
 5. Calculate the average Amount of orders grouped by the month and year of OrderDate
+
+
